@@ -14,4 +14,4 @@ function countSymbols(data) {
   return max;
 }
 
-//console.log(countSymbols([1,1,1,2,4,5]));
+console.log(countSymbols([1,1,1,2,4,5]));
